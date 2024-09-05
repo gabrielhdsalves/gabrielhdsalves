@@ -1,19 +1,42 @@
-## Hi there 👋
+# Gabriel Alves
+#### Estudante de Ciências da Computação | Computer Science Student
+#### Universidade Federal de Itajubá (UNIFEI)
 
-<!--
-**Gabrielhdsalves/Gabrielhdsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Gabriel Alves, estudante do 4º período de **Ciências da Computação** na Universidade Federal de Itajubá (UNIFEI). Sou apaixonado por tecnologia, programação e segurança da informação. Participo de **CTFs (Capture The Flag)** e tenho interesse em áreas como **algoritmos**, **estruturas de dados**, e **desenvolvimento de software**.
+
+Atualmente, estou focado em:
+- Estruturas de Dados como **Pilha**, **Árvores B** e **Árvores AVL**
+- Programação em **C**, **TypeScript**, e **React**
+- Estudos de **cibersegurança** no **Kali Linux**
 
 
 
-Here are some ideas to get you started:
+## Habilidades
+- **Linguagens**: C, TypeScript, JavaScript, Lua, Python
+- **Desenvolvimento Web**: Html, Css, React, TypeScript, JavaScript
+- **Sistemas Operacionais**: Linux (Kali, Ubuntu)
+- **Ferramentas**: Git, Overleaf
+- **Segurança**: CTFs, Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
+<div align="center">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" alt="Lua logo" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
+
+## Projetos em destaque
+- [**Delivery App Mobile**](#) - Desenvolvimento de um aplicativo usando React e TypeScript.
+- [**CTF Challenges**](#) - Participação em desafios de segurança da informação.
+
+## Contato
+- **Email**: [gabhenriquesa1@gmail.com](mailto:gabhenriquesa1@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/gabrielhdsalves/](https://www.linkedin.com/in/gabrielhdsalves/)
+
+Pronto para novas colaborações e novas oportunidades.
+
+---
+"Sempre disposto a adquirir conhecimento!"
