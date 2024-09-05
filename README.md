@@ -2,7 +2,7 @@
 #### Estudante de Ciências da Computação | Computer Science Student
 #### Universidade Federal de Itajubá (UNIFEI)
 
-Olá! Sou Gabriel Alves, estudante do 4º período de **Ciências da Computação** na Universidade Federal de Itajubá (UNIFEI). Sou apaixonado por tecnologia, programação e segurança da informação. Participo de **CTFs (Capture The Flag)** e tenho interesse em áreas como **algoritmos**, **estruturas de dados**, e **desenvolvimento de software**.
+Olá! Sou Gabriel Alves, estudante do 4º período de **Ciências da Computação** na Universidade Federal de Itajubá (UNIFEI). Sou apaixonado por tecnologia, programação e segurança da informação. Participo de **CTFs (Capture The Flag)** e tenho interesse em áreas como **Algoritmos**, **Estruturas de Dados**, **Desenvolvimento Mobile** e **Desenvolvimento Web**.
 
 Atualmente, estou focado em:
 - Estruturas de Dados como **Pilha**, **Árvores B** e **Árvores AVL**
