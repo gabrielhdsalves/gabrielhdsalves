@@ -21,7 +21,7 @@ Currently, I'm focusing on:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhdsalves&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhdsalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Featured Projects
 - [**Delivery App Mobile**](#) - Development of a mobile app using React and TypeScript.
