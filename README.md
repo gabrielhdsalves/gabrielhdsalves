@@ -24,7 +24,7 @@ Currently, I'm focusing on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhdsalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Featured Projects
-- [**Delivery App Mobile**](#) - Development of a mobile app using React and TypeScript.
+- [**Delivery App Mobile**](https://github.com/gabrielhdsalves/Delivery-App-Mobile) - Development of a mobile app using React and TypeScript.
 - [**CTF Challenges**](#) - Participation in information security challenges.
 
 ## 🌐 Socials:
