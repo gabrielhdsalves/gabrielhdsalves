@@ -2,7 +2,7 @@
 
 #### Computer Science Student | Universidade Federal de Itajubá (UNIFEI)
 
-Hello! I'm Gabriel Alves, a 5th-semester **Computer Science** student at the Federal University of Itajubá (UNIFEI). I'm passionate about technology, programming, and information security. I participate in **CTFs (Capture The Flag)** and have an interest in areas like **Algorithms**, **Data Structures**, **Mobile Development**, and **Web Development**.
+Hello! I'm Gabriel Alves, a 6th-semester **Computer Science** student at the Federal University of Itajubá (UNIFEI). I'm passionate about technology, programming, and information security. I participate in **CTFs (Capture The Flag)** and have an interest in areas like **Algorithms**, **Data Structures**, **Mobile Development**, and **Web Development**.
 
 Currently, I'm focusing on:
 
