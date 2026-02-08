@@ -1,6 +1,6 @@
 # Gabriel Alves | Desenvolvedor Full-Stack
 
-<img src="./gif.gif" style="width: 25rem; height: 30rem; object-fit: cover; border-radius: 0.5rem;" />
+<img src="./gif.gif" style="width: 100%; height: 30rem; object-fit: cover; border-radius: 0.5rem;" />
 
 ### 💼 Estudante de Ciência da Computação | Desenvolvedor de Software | Entusiasta em Cibersegurança
 
