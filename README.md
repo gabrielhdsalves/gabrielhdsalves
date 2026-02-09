@@ -19,7 +19,7 @@ Sou **estudante do 7º período de Ciência da Computação** na Universidade Fe
 
 ## 💻 Tech Stack
 
-### **Linguagens & Frameworks**
+### **Linguagens**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
@@ -37,7 +37,9 @@ Sou **estudante do 7º período de Ciência da Computação** na Universidade Fe
 
 ### **Sistemas Operacionais & Segurança**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) **Competidor de CTFs** | **Penetration Testing** | **Análise de Segurança**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Competidor de CTFs** | **Penetration Testing** | **Análise de Segurança**
 
 ## 🚀 Projetos em Destaque
 
