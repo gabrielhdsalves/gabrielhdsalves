@@ -6,7 +6,7 @@
 
 > **Construindo aplicações web e mobile modernas e escaláveis com tecnologias de ponta**
 
-Sou **estudante do 7º período de Ciência da Computação** na Universidade Federal de Itajubá (UNIFEI), especializado em **Desenvolvimento Full-Stack**, **Aplicações Mobile** e **Segurança da Informação**. Com experiência prática em frameworks modernos e uma base sólida em algoritmos e estruturas de dados, entrego soluções robustas e focadas na experiência do usuário.
+Sou **estudante do 8º período de Ciência da Computação** na Universidade Federal de Itajubá (UNIFEI), especializado em **Desenvolvimento Full-Stack**, **Aplicações Mobile** e **Segurança da Informação**. Com experiência prática em frameworks modernos e uma base sólida em algoritmos e estruturas de dados, entrego soluções robustas e focadas na experiência do usuário.
 
 ## 🎯 O Que Posso Agregar ao Seu Time
 
